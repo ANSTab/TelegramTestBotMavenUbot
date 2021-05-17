@@ -62,8 +62,8 @@ public class App {
     }
 
     public List<String> zzRposhukName(Update update) throws InvalidObjectException, UnsupportedEncodingException {
-        String pathZZR = "D:\\TelegramBot\\dataBase.json";
-        String pathPM = "D:\\TelegramBot\\dataPM.json";
+        String pathZZR = "D:\\TelegramTestBotMeven\\dataBase.json";
+        String pathPM = "D:\\TelegramTestBotMeven\\dataPM.json";
         String firstChar = update.message().text().substring(0, 3);
         System.out.println(firstChar);
         Message message = update.message();
@@ -86,10 +86,12 @@ public class App {
         if (message != null) {
             if (message != null && message.text().toLowerCase().substring(0, 3).equals("ззр")) {
                 for (ZZR zzr : list) {
-                    if (zzr.getName().toLowerCase().contains(message.text().toLowerCase().substring(5))) {
+                    if (zzr.getName().toLowerCase().contains(message.text().toLowerCase().substring(4))) {
+                  //  if (message.text().toLowerCase().substring(5).contains(zzr.getName().toLowerCase())) {
+
                         sms = "НАЗВА: " + zzr.getName() + "\n" + "НОРМА ВНЕСЕННЯ: " + zzr.getNormaVneseniy() + "\n"
-                                + "ТИП: " + zzr.getVid() + "\n" + "ВИРОБНИК: " + zzr.getVirobnik() + "\n" + "ДІЮЧА РЕЧОВИНА: "
-                                + zzr.getDv() + "\n" + "КУЛЬТУРА: " + zzr.getKultura() + "\n" + "СПЕКТР ШКІДНИКІВ: " + zzr.getSpectr() + "\n";
+                                + "ТИП: " + zzr.getVid() + "\n" + "ВИРОБНИК\uD83C\uDFE2: " + zzr.getVirobnik() + "\n" + "ДІЮЧА РЕЧОВИНА\uD83E\uDDEC: "
+                                + zzr.getDv() + "\n" + "КУЛЬТУРА\uD83C\uDF3D\uD83C\uDF3B: " + zzr.getKultura() + "\n" + "СПЕКТР ШКІДНИКІВ: " + zzr.getSpectr() + "\n";
                         System.out.println(update.message().from().id());
                         System.out.println(update.message().from().firstName());
                         System.out.println(update.message().from().lastName());
@@ -106,10 +108,10 @@ public class App {
             }
             if (message != null && message.text().toLowerCase().substring(0, 2).equals("дв")) {
                 for (ZZR zzr : list) {
-                    if (zzr.getDv().toLowerCase().contains(message.text().toLowerCase().substring(4))) {
+                    if (zzr.getDv().toLowerCase().contains(message.text().toLowerCase().substring(3))) {
                         sms = "НАЗВА: " + zzr.getName() + "\n" + "НОРМА ВНЕСЕННЯ: " + zzr.getNormaVneseniy() + "\n"
-                                + "ТИП: " + zzr.getVid() + "\n" + "ВИРОБНИК: " + zzr.getVirobnik() + "\n" + "ДІЮЧА РЕЧОВИНА: "
-                                + zzr.getDv() + "\n" + "КУЛЬТУРА: " + zzr.getKultura() + "\n" + "СПЕКТР ШКІДНИКІВ: " + zzr.getSpectr() + "\n";
+                                + "ТИП: " + zzr.getVid() + "\n" + "ВИРОБНИК\uD83C\uDFE2: " + zzr.getVirobnik() + "\n" + "ДІЮЧА РЕЧОВИНА\uD83E\uDDEC: "
+                                + zzr.getDv() + "\n" + "КУЛЬТУРА\uD83C\uDF3D\uD83C\uDF3B: " + zzr.getKultura() + "\n" + "СПЕКТР ШКІДНИКІВ: " + zzr.getSpectr() + "\n";
                         System.out.println(update.message().from().id());
                         System.out.println(update.message().from().firstName());
                         System.out.println(update.message().from().lastName());
@@ -127,7 +129,7 @@ public class App {
             if (message != null  && message.text().toLowerCase().substring(0, 2).equals("пм")) {
                 for (PM pm : listGetPm) {
                     if (pm.getName().toLowerCase().contains(message.text().toLowerCase().substring(3))) {
-                        sms = "НАЗВА: " + pm.getName() + "\n" + "Виробник: " + pm.getProducer() + "\n"
+                        sms = "НАЗВА: " + pm.getName() + "\n" + "Виробник\uD83C\uDFE2: " + pm.getProducer() + "\n"
                                 + "ТИП: " + pm.getType() + "\n" + "Характеристика: " + pm.getFao() + "\n"
                                 + "Орієнтована ціна на 2021р: " + pm.getPrice() + "\n"
                                 + "Валюта: " + pm.getCurrency() + "\n";
