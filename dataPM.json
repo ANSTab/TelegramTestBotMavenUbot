@@ -1,0 +1,2914 @@
+[
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "S2610 (EXPG-600)",
+            "fao": "260",
+            "price": "4,531"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "S38-25",
+            "fao": "380",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "S38-25 (5 фр.)",
+            "fao": "380",
+            "price": "3,782"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "S39-09",
+            "fao": "390",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "S42-10",
+            "fao": "420",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "S4211 (EXPG-607)",
+            "fao": "440",
+            "price": "5,121"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "UNI3510 (EXPM-032)",
+            "fao": "220",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "EXPM-009",
+            "fao": "240",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "UNI310 (EXPM-015)",
+            "fao": "260",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "UNI3410 (EXPM-013)",
+            "fao": "290",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "EXPI-143",
+            "fao": "320",
+            "price": "4,925"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "UNI3313 (EXPH-002)",
+            "fao": "330",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "UNI 3511 (EXPH-003)",
+            "fao": "330",
+            "price": "4,727"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "EXPB-003",
+            "fao": "430",
+            "price": "5,121"
+        },
+        {
+            "producer": "UNIVERSEED",
+            "type": "насіння кукурудзи",
+            "currency": "UAH",
+            "name": "EXPM-017",
+            "fao": "440",
+            "price": "4,727"
+        },
+        {
+            "producer": "LEGEND",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "ДК 315 (MaxiPro)",
+            "fao": "310",
+            "price": "171.00 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3050-QX-80M",
+            "fao": "200",
+            "price": "171.00 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3050-NW-80M",
+            "fao": "200",
+            "price": "194.94 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3050-X4-80M",
+            "fao": "200",
+            "price": "194.94 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3050-P5-80M",
+            "fao": "200",
+            "price": "194.94 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3151-QX-80M",
+            "fao": "200",
+            "price": "153.90 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3441-QX-80M",
+            "fao": "220",
+            "price": "176.70 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3361-QX-80M",
+            "fao": "240",
+            "price": "176.70 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3361-NW-80M",
+            "fao": "240",
+            "price": "200.64 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3795-QX-80M",
+            "fao": "250",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3795-NW-80M",
+            "fao": "250",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3795-X4-80M",
+            "fao": "250",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3795-W4-80M",
+            "fao": "250",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3789-QX-80M",
+            "fao": "260",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3789-NW-80M",
+            "fao": "260",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3609-QX-80M",
+            "fao": "260",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3609-NW-80M",
+            "fao": "260",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3507-QX-80M",
+            "fao": "270",
+            "price": "102.60 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3730-QX-80M",
+            "fao": "280",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3730-NW-80M",
+            "fao": "280",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3730-P5-80M",
+            "fao": "280",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3730-X4-80M (-3% 2019 р.в.)",
+            "fao": "280",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3730-X4-80M (-5% 2018 р.в.)",
+            "fao": "280",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3730-X4-80M (-8% 2017 р.в.)",
+            "fao": "280",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3623-QX-80M",
+            "fao": "290",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3623-NW-80M",
+            "fao": "290",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3623-0-80M (-3% 2019 р.в.)",
+            "fao": "290",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3623-0-80M (-5% 2018 р.в.)",
+            "fao": "290",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3623-0-80M (-8% 2017 р.в.)",
+            "fao": "290",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3972-QX-80M",
+            "fao": "300",
+            "price": "216.60 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3972-NW-80M",
+            "fao": "300",
+            "price": "240.54 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3705-QX-80M",
+            "fao": "300",
+            "price": "131.10 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4014-0-80M (-3% 2019 р.в.)",
+            "fao": "310",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4014-0-80M (-5% 2018 р.в.)",
+            "fao": "310",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4014-0-80M (-8% 2017 р.в.)",
+            "fao": "310",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4014-QX-80M",
+            "fao": "310",
+            "price": "199.50 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4014-NW-80M",
+            "fao": "310",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4014-X4-80M",
+            "fao": "310",
+            "price": "223.44 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3811-0-80M",
+            "fao": "320",
+            "price": "131.10 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3811-QX-80M",
+            "fao": "320",
+            "price": "131.10 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3939-QX-80M",
+            "fao": "320",
+            "price": "208.62 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3939-NW-80M",
+            "fao": "320",
+            "price": "232.56 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3939-P5-80M",
+            "fao": "320",
+            "price": "232.56 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3939-X4-80M",
+            "fao": "320",
+            "price": "232.56 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3969-QX-80M",
+            "fao": "330",
+            "price": "210.90 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3969-NW-80M",
+            "fao": "330",
+            "price": "234.84 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3969-P5-80M",
+            "fao": "330",
+            "price": "234.84 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-QX-80M",
+            "fao": "330",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-NW-80M",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-P5-80M",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-P5-80M (-3% 2019 р.в.)",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-P5-80M (-5% 2018 р.в.)",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-P5-80M (-8% 2017 р.в.)",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-W4-80M",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-X4-80M",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-X4-80M (-3% 2019 р.в.)",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-X4-80M (-5% 2018 р.в.)",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511-X4-80M (-8% 2017 р.в.)",
+            "fao": "330",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC3511WX-QX-80M",
+            "fao": "330",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4178-QX-80M",
+            "fao": "330",
+            "price": "216.60 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4178-NW-80M",
+            "fao": "330",
+            "price": "240.54 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4408-QX-80M",
+            "fao": "340",
+            "price": "176.70 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4408-NW-80M",
+            "fao": "340",
+            "price": "200.64 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4685-QX-80M",
+            "fao": "340",
+            "price": "114.00 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4351-QX-80M",
+            "fao": "350",
+            "price": "208.62 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4351-NW-80M",
+            "fao": "350",
+            "price": "232.56 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4351-P5-80M",
+            "fao": "350",
+            "price": "232.56 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4590-QX-80M",
+            "fao": "360",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4590-NW-80M",
+            "fao": "360",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4590-W4-80M",
+            "fao": "360",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4541-QX-80M",
+            "fao": "380",
+            "price": "205.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4541-NW-80M",
+            "fao": "380",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4541-P5-80M",
+            "fao": "380",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4541-X4-80M (-3% 2019 р.в.)",
+            "fao": "380",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4541-X4-80M (-5% 2018 р.в.)",
+            "fao": "380",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4541-X4-80M (-8% 2017 р.в.)",
+            "fao": "380",
+            "price": "229.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4608-QX-80M",
+            "fao": "380",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4608-NW-80M",
+            "fao": "380",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4608-W4-80M",
+            "fao": "380",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4964-QX-80M",
+            "fao": "380",
+            "price": "148.20 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4964-NW-80M",
+            "fao": "380",
+            "price": "172.14 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4795-QX-80M",
+            "fao": "390",
+            "price": "180.12 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4795-NW-80M",
+            "fao": "390",
+            "price": "204.06 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4943-QX-80M",
+            "fao": "390",
+            "price": "207.48 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4943-NW-80M",
+            "fao": "390",
+            "price": "231.42 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-0-80M (-3% 2019 р.в.)",
+            "fao": "400",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-0-80M (-5% 2018 р.в.)",
+            "fao": "400",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-0-80M (-8% 2017 р.в.)",
+            "fao": "400",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-QX-80M",
+            "fao": "400",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-NW-80M",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-X4-80M (-3% 2019 р.в.)",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-X4-80M (-5% 2018 р.в.)",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-X4-80M (-8% 2017 р.в.)",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-P5-80M (-3% 2019 р.в.)",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-P5-80M (-5% 2018 р.в.)",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC4717-P5-80M (-8% 2017 р.в.)",
+            "fao": "400",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5075-QX-80M",
+            "fao": "410",
+            "price": "210.90 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5075-NW-80M",
+            "fao": "410",
+            "price": "234.84 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5007-QX-80M",
+            "fao": "440",
+            "price": "193.80 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5007-NW-80M",
+            "fao": "440",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5007-X4-80M",
+            "fao": "440",
+            "price": "217.74 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5141-QX-80M",
+            "fao": "460",
+            "price": "202.92 "
+        },
+        {
+            "producer": "Dekalb",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "DKC5141-NW-80M",
+            "fao": "460",
+            "price": "226.86 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Неома (Круїзер)",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - E",
+            "price": "236.71 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Експерто (Круїзер)",
+            "fao": "Clearfield®; Високо-олеіновий; Контроль вовчка - E",
+            "price": "244.64 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Конді (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "236.71 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Конді",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "220.84 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Бріо (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "230.10 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Купава (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "198.36 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Купава",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "182.50 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Діамантіс (Круїзер)",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - E",
+            "price": "222.17 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Діамантіс (Круїзер; Форс)",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - E",
+            "price": "230.10 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Бакарді (Круїзер)",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - E",
+            "price": "208.94 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Тутті (Круїзер)",
+            "fao": "Класичний; Високо-олеіновий; Контроль вовчка - E",
+            "price": "238.03 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Таленто (Круїзер)",
+            "fao": "Clearfield®; Високо-олеіновий; Контроль вовчка - E",
+            "price": "227.45 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Таленто (Круїзер; Форс)",
+            "fao": "Clearfield®; Високо-олеіновий; Контроль вовчка - E",
+            "price": "235.39 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Ферті (Круїзер)",
+            "fao": "Класичний; Високо-олеіновий; Контроль вовчка - E",
+            "price": "220.84 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Суміко (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - E",
+            "price": "189.11 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Суміко",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - E",
+            "price": "173.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Ласкала (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "189.11 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Арізона (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F",
+            "price": "214.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Арізона",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F",
+            "price": "198.36 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Катана КЛП (Круїзер)",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - G",
+            "price": "208.94 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Катана КЛП",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - G",
+            "price": "193.07 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Естрада (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "183.82 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Едісон",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "179.84 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Едісон (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "195.72 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Едісон (Круїзер; Форс)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "203.65 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Субаро (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - E",
+            "price": "174.55 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Субаро",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - E",
+            "price": "158.69 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Суматра (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F",
+            "price": "178.52 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Сайберік (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - G",
+            "price": "191.75 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Сайберік (Круїзер; Форс)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - G",
+            "price": "199.68 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Суомі (Круїзер; Україна)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - G",
+            "price": "187.78 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Кадікс (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "171.91 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Босфора (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F",
+            "price": "138.85 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Босфора",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F",
+            "price": "122.99 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Алькантара (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "175.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Коломбі (Круїзер)",
+            "fao": "Clearfield®; Високо-олеіновий; Контроль вовчка - E",
+            "price": "194.39 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Барбаті (Круїзер)",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - F",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Розета КЛП (Круїзер)",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - F",
+            "price": "182.50 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Честер (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "173.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Честер",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - G",
+            "price": "157.37 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Сузука (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F",
+            "price": "186.46 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Арко (Круїзер)",
+            "fao": "Класичний; Високо-олеіновий; Контроль вовчка - G",
+            "price": "195.72 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Неостар КЛП (Круїзер)",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - E",
+            "price": "89.93 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Фортімі (Круїзер)",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - E",
+            "price": "89.93 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Фортімі",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - E",
+            "price": "74.05 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Ададжіо (Круїзер)",
+            "fao": "Clearfield®; Лінолевий; Контроль вовчка - E",
+            "price": "89.93 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Роккі",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "74.05 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "НК Делфі",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "74.05 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Санай МР (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "121.66 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "Санай МР",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "105.79 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння соняшнику",
+            "currency": "USD",
+            "name": "СИ Еденіс (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - E",
+            "price": "174.28 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Феномен MQ (Круїзер)",
+            "fao": "220",
+            "price": "158.69 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Феномен MQ (Круїзер; Україна) (знижка -25%)",
+            "fao": "220",
+            "price": "158.69 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Феномен MQ (Форс Зеа)",
+            "fao": "220",
+            "price": "158.69 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Феномен MQ",
+            "fao": "220",
+            "price": "142.82 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Феномен MQ (Форс Зеа + Вайбранс)",
+            "fao": "220",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Феномен MQ (Форс Зеа + Вайбранс; Україна) (знижка -10%)",
+            "fao": "220",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фортаго MQ (Форс Зеа)",
+            "fao": "260",
+            "price": "141.49 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фортаго MQ",
+            "fao": "260",
+            "price": "125.63 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фортаго MQ (Форс Зеа + Вайбранс)",
+            "fao": "260",
+            "price": "146.78 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фортаго",
+            "fao": "260",
+            "price": "124.31 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фортаго (Форс Зеа + Вайбранс; Україна)",
+            "fao": "260",
+            "price": "145.46 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Чорінтос MQ (Форс Зеа)",
+            "fao": "310",
+            "price": "158.69 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Чорінтос MQ (Форс Зеа + Вайбранс)",
+            "fao": "310",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Чорінтос MQ (Форс Зеа + Вайбранс; Україна)",
+            "fao": "310",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Зефір MQ (Форс Зеа)",
+            "fao": "430",
+            "price": "133.56 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Зефір MQ",
+            "fao": "430",
+            "price": "117.70 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Зефір MQ (Форс Зеа + Вайбранс)",
+            "fao": "430",
+            "price": "138.85 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Зефір (Форс Зеа + Вайбранс; Україна)",
+            "fao": "430",
+            "price": "137.53 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Орфеус MQ (Форс Зеа)",
+            "fao": "360",
+            "price": "169.27 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Орфеус MQ",
+            "fao": "360",
+            "price": "153.40 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Орфеус MQ (Форс Зеа + Вайбранс)",
+            "fao": "360",
+            "price": "174.55 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Орфеус (Форс Зеа + Вайбранс; Україна)",
+            "fao": "360",
+            "price": "173.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Орфеус (Форс Зеа + Вайбранс)",
+            "fao": "360",
+            "price": "173.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Скорпіус MQ (Україна) (знижка -30%)",
+            "fao": "290",
+            "price": "140.17 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Скорпіус MQ (Форс Зеа + Вайбранс)",
+            "fao": "290",
+            "price": "161.33 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Скорпіус (Форс Зеа + Вайбранс; Україна)",
+            "fao": "290",
+            "price": "160.01 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Премео MQ (Форс Зеа)",
+            "fao": "360",
+            "price": "179.84 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Премео MQ",
+            "fao": "360",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Премео MQ (Форс Зеа + Вайбранс)",
+            "fao": "360",
+            "price": "185.14 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Премео (Форс Зеа + Вайбранс)",
+            "fao": "360",
+            "price": "183.82 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Мінерва MQ (Форс Зеа + Вайбранс)",
+            "fao": "390",
+            "price": "198.36 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Ротанго MQ (Форс Зеа)",
+            "fao": "200",
+            "price": "136.21 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Ротанго MQ (Форс Зеа + Вайбранс)",
+            "fao": "200",
+            "price": "141.49 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Ротанго (Форс Зеа; Україна)",
+            "fao": "200",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фрегат MQ (Форс Зеа + Вайбранс)",
+            "fao": "250",
+            "price": "171.91 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фотон (Круїзер; Україна)",
+            "fao": "260",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фотон MQ (Форс Зеа)",
+            "fao": "260",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фотон MQ",
+            "fao": "260",
+            "price": "119.02 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фотон MQ (Форс Зеа + Вайбранс)",
+            "fao": "260",
+            "price": "140.17 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фотон (Форс Зеа+Вайбранс; Україна)",
+            "fao": "260",
+            "price": "138.85 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Фотон (Форс Зеа+Вайбранс)",
+            "fao": "260",
+            "price": "138.85 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Імпульс MQ (Форс Зеа)",
+            "fao": "280",
+            "price": "173.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Імпульс MQ (Форс Зеа + Вайбранс)",
+            "fao": "280",
+            "price": "178.52 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Імпульс (Форс Зеа + Вайбранс; Україна)",
+            "fao": "280",
+            "price": "177.20 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Термо MQ (Форс Зеа)",
+            "fao": "330",
+            "price": "140.17 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Термо MQ",
+            "fao": "330",
+            "price": "124.31 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Термо",
+            "fao": "330",
+            "price": "122.99 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Термо (Україна)",
+            "fao": "330",
+            "price": "122.99 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт WX MQ (Форс Зеа)",
+            "fao": "320",
+            "price": "162.66 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Марімба MQ (Форс Зеа)",
+            "fao": "240",
+            "price": "174.55 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Марімба MQ",
+            "fao": "240",
+            "price": "158.69 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Марімба MQ (Форс Зеа + Вайбранс)",
+            "fao": "240",
+            "price": "179.84 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Торіно MQ (Форс Зеа)",
+            "fao": "310",
+            "price": "173.23 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Торіно MQ",
+            "fao": "310",
+            "price": "157.37 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Торіно MQ (Форс Зеа + Вайбранс)",
+            "fao": "310",
+            "price": "178.52 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Торіно (Форс Зеа + Вайбранс)",
+            "fao": "310",
+            "price": "177.20 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Каріока MQ (Форс Зеа + Вайбранс)",
+            "fao": "480",
+            "price": "194.39 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Аріосо MQ (Форс Зеа)",
+            "fao": "270",
+            "price": "136.21 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Аріосо MQ",
+            "fao": "270",
+            "price": "120.34 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Аріосо (Україна)",
+            "fao": "270",
+            "price": "119.02 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Аріосо (Форс Зеа; Україна)",
+            "fao": "270",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Аріосо (Форс Зеа)",
+            "fao": "270",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт MQ (Форс Зеа)",
+            "fao": "320",
+            "price": "162.66 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт MQ",
+            "fao": "320",
+            "price": "146.78 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт MQ (Форс Зеа + Вайбранс)",
+            "fao": "320",
+            "price": "167.94 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт (Україна)",
+            "fao": "320",
+            "price": "145.46 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт (Форс Зеа; Україна)",
+            "fao": "320",
+            "price": "161.33 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кобальт (Форс Зеа)",
+            "fao": "320",
+            "price": "161.33 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Пандорас MQ (Форс Зеа)",
+            "fao": "250",
+            "price": "150.76 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Пандорас MQ",
+            "fao": "250",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Пандорас MQ (Форс Зеа + Вайбранс)",
+            "fao": "250",
+            "price": "156.05 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Пандорас (Форс Зеа + Вайбранс)",
+            "fao": "250",
+            "price": "154.72 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Енермакс MQ (Форс Зеа)",
+            "fao": "330",
+            "price": "163.98 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Енермакс MQ",
+            "fao": "330",
+            "price": "148.11 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Енермакс MQ (Форс Зеа + Вайбранс)",
+            "fao": "330",
+            "price": "169.27 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Енермакс (Вайбранс + Форс Зеа)",
+            "fao": "330",
+            "price": "167.94 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Октеон MQ (Форс Зеа)",
+            "fao": "380",
+            "price": "128.27 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Октеон MQ",
+            "fao": "380",
+            "price": "112.40 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Октеон MQ (Форс Зеа + Вайбранс)",
+            "fao": "380",
+            "price": "133.56 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Озон MQ (Форс Зеа + Вайбранс)",
+            "fao": "310",
+            "price": "145.46 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Теліас MQ (Форс Зеа)",
+            "fao": "220",
+            "price": "130.92 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Теліас MQ (Форс Зеа + Вайбранс)",
+            "fao": "220",
+            "price": "136.21 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Теліас (Форс Зеа + Вайбранс)",
+            "fao": "220",
+            "price": "134.88 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Батанга MQ (Форс Зеа)",
+            "fao": "340",
+            "price": "122.99 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Батанга MQ",
+            "fao": "340",
+            "price": "107.11 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Батанга",
+            "fao": "340",
+            "price": "105.79 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Батанга (Україна)",
+            "fao": "340",
+            "price": "105.79 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Новатоп (Україна)",
+            "fao": "240",
+            "price": "52.90 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Луціус (Україна)",
+            "fao": "340",
+            "price": "52.90 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Ірідіум",
+            "fao": "350",
+            "price": "52.90 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "Делітоп (Форс Зеа)",
+            "fao": "220",
+            "price": "89.93 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "Делітоп (Україна)",
+            "fao": "220",
+            "price": "74.05 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Аладіум",
+            "fao": "280",
+            "price": "52.90 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Талісман (Форс Зеа; Україна)",
+            "fao": "200",
+            "price": "100.50 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Талісман (Форс Зеа + Вайбранс; Україна)",
+            "fao": "200",
+            "price": "105.79 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "СИ Креон",
+            "fao": "410",
+            "price": "72.73 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Канзас",
+            "fao": "290",
+            "price": "72.73 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Кулер (Україна)",
+            "fao": "230",
+            "price": "72.73 "
+        },
+        {
+            "producer": "Syngenta",
+            "type": "насіння кукурудзи",
+            "currency": "USD",
+            "name": "НК Джитаго (Україна)",
+            "fao": "210",
+            "price": "72.73 "
+        },
+        {
+            "producer": "Limagrain",
+            "type": "насіння кукурудзи",
+            "currency": "EUR",
+            "name": "Адевей",
+            "fao": "290",
+            "price": "86.91 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Фаусто",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F",
+            "price": "130.63 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Фаусто (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F",
+            "price": "142.50 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Целсо",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F+",
+            "price": "130.63 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Целсо (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F+",
+            "price": "142.50 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Меро",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F",
+            "price": "130.63 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Меро (Круїзер)",
+            "fao": "Сульфо*; Лінолевий; Контроль вовчка - F",
+            "price": "142.50 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Сорес (Круїзер)",
+            "fao": "Clearfield®  Plus; Високо-олеіновий; Контроль вовчка - E",
+            "price": "172.19 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Фабуло",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - F",
+            "price": "142.50 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Фабуло (Круїзер)",
+            "fao": "Clearfield®  Plus; Лінолевий; Контроль вовчка - F",
+            "price": "154.38 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Баско",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F+",
+            "price": "124.69 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Баско (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F+",
+            "price": "136.56 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Орфео",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F",
+            "price": "124.69 "
+        },
+        {
+            "producer": "Strube",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Орфео (Круїзер)",
+            "fao": "Класичний; Лінолевий; Контроль вовчка - F",
+            "price": "136.56 "
+        },
+        {
+            "producer": "S&W",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Дівна (SW1020CL)",
+            "fao": "ClearField",
+            "price": "171.00 "
+        },
+        {
+            "producer": "S&W",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Магура (SW1710)",
+            "fao": "Класичний; контроль вовчка - H",
+            "price": "164.35 "
+        },
+        {
+            "producer": "S&W",
+            "type": "насіння соняшнику",
+            "currency": "EUR",
+            "name": "Валін (SW1400)",
+            "fao": "Класичний; контроль вовчка - H",
+            "price": "164.35 "
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_90F STANDARD",
+            "fao": "Середньоранній",
+            "price": "1,699"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_91G STANDARD",
+            "fao": "Середньоранній",
+            "price": "1,699"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_89M STANDARD",
+            "fao": "Середньостиглий",
+            "price": "571"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_80IR STANDARD",
+            "fao": "Ранньостиглий",
+            "price": "1,128"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_86CP STANDARD",
+            "fao": "Середньоранній",
+            "price": "1,128"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_85SU CRUISER",
+            "fao": "Середньостиглий",
+            "price": "3,668"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_92CP STANDARD",
+            "fao": "Середньостиглий",
+            "price": "3,953"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_93CP STANDARD",
+            "fao": "Cередньопізній",
+            "price": "3,396"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_96P STANDARD",
+            "fao": "Середньостиглий",
+            "price": "2,853"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_97A STANDARD",
+            "fao": "Cередньопізній",
+            "price": "2,853"
+        },
+        {
+            "producer": "Maisadour",
+            "type": "насіння соняшнику",
+            "currency": "UAH",
+            "name": "Mas_82A STANDARD",
+            "fao": "Ранньостиглий",
+            "price": "1,141"
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Балі (Пончо Бета)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "100.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Балі (Форс Круїзер 15)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "100.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Балі (Форс Круїзер 30)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "114.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Пітбуль (Пончо Бета)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "100.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Пітбуль (Форс Круїзер 15)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "100.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Пітбуль (Форс Круїзер 30)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "114.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Бізон (Пончо Бета)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Бізон (Форс Круїзер 15)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Бізон (Форс Круїзер 30)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "108.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Файтер (Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Файтер (Форс Круїзер 15)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Файтер (Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "108.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Хорнет (Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Хорнет (Форс Круїзер 15)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Хорнет (Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "108.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Маніту (Пончо Бета)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "96.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Маніту (Форс Круїзер 15)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "96.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Маніту (Форс Круїзер 30)",
+            "fao": "N, нематодотолерантний; Україна",
+            "price": "110.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Карпати (Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Карпати (Форс Круїзер 15)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Карпати (Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "108.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Тореадор (Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Тореадор (Форс Круїзер 15)",
+            "fao": "NZ; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Тореадор (Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "108.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Тапір (Пончо Бета)",
+            "fao": "N; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Тапір (Форс Круїзер 15)",
+            "fao": "N; Україна",
+            "price": "94.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Тапір (Форс Круїзер 30)",
+            "fao": "N; Україна",
+            "price": "108.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Панда (Пончо Бета)",
+            "fao": "Z/NZ; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Панда (Форс Круїзер 15)",
+            "fao": "Z/NZ; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Панда (Форс Круїзер 30)",
+            "fao": "Z/NZ; Україна",
+            "price": "104.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Анаконда (Пончо Бета)",
+            "fao": "Z ; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Анаконда (Форс Круїзер 15)",
+            "fao": "Z ; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Анаконда (Форс Круїзер 30)",
+            "fao": "Z ; Україна",
+            "price": "104.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Боа (Пончо Бета)",
+            "fao": "N; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Боа (Форс Круїзер 15)",
+            "fao": "N; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Боа (Форс Круїзер 30)",
+            "fao": "N; Україна",
+            "price": "104.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Аргумент (Пончо Бета)",
+            "fao": "Z/NZ; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Аргумент (Форс Круїзер 15)",
+            "fao": "Z/NZ; Україна",
+            "price": "90.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Аргумент (Форс Круїзер 30)",
+            "fao": "Z/NZ; Україна",
+            "price": "104.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Хайленд (Пончо Бета)",
+            "fao": "N; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Хайленд (Форс Круїзер 15)",
+            "fao": "N; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Хайленд(Форс Круїзер 30)",
+            "fao": "N; Україна",
+            "price": "102.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Жираф (Пончо Бета)",
+            "fao": "Z; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Жираф (Форс Круїзер 15)",
+            "fao": "Z; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Жираф (Форс Круїзер 30)",
+            "fao": "Z; Україна",
+            "price": "102.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Предатор (Пончо Бета)",
+            "fao": "E; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Предатор (Форс Круїзер 15)",
+            "fao": "E; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Предатор (Форс Круїзер 30)",
+            "fao": "E; Україна",
+            "price": "102.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Скорпіон (Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Скорпіон (Форс Круїзер 15)",
+            "fao": "NZ; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Скорпіон (Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "102.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Вапіті (Пончо Бета)",
+            "fao": "N; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Вапіті (Форс Круїзер 15)",
+            "fao": "N; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Вапіті (Форс Круїзер 30)",
+            "fao": "N; Україна",
+            "price": "102.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Магістр (Пончо Бета)",
+            "fao": "Z/NZ; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Магістр (Форс Круїзер 15)",
+            "fao": "Z/NZ; Україна",
+            "price": "88.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Магістр (Форс Круїзер 30)",
+            "fao": "Z/NZ; Україна",
+            "price": "102.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Талтос (Пончо Бета)",
+            "fao": "Z; Україна",
+            "price": "82.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Талтос (Форс Круїзер 15)",
+            "fao": "Z; Україна",
+            "price": "82.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Талтос (Форс Круїзер 30)",
+            "fao": "Z; Україна",
+            "price": "96.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Койот (Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "82.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Койот(Форс Круїзер 15)",
+            "fao": "NZ; Україна",
+            "price": "82.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Койот(Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "96.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Федеріка(Пончо Бета)",
+            "fao": "NZ; Україна",
+            "price": "82.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Федеріка(ФорсКруїзер15)",
+            "fao": "NZ; Україна",
+            "price": "82.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Федеріка(Форс Круїзер 30)",
+            "fao": "NZ; Україна",
+            "price": "96.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Номад Смарт (пакет на 1 га)",
+            "fao": "пакет на 1 га = (1,2 кор. насіння в обробці клотіанідин 60 г/л + бета-цифлутрин 8 г/л + гимексазол 14 г/л) + (1 л гербіциду Конвізо + 1 л прилипача Меро)",
+            "price": "425.00 "
+        },
+        {
+            "producer": "SESVanderHave",
+            "type": "насіння цукрового буряку",
+            "currency": "EUR",
+            "name": "Вомбат Смарт (пакет на 1 га)",
+            "fao": "пакет на 1 га = (1,2 кор. насіння в обробці клотіанідин 60 г/л + бета-цифлутрин 8 г/л + гимексазол 14 г/л) + (1 л гербіциду Конвізо + 1 л прилипача Меро)",
+            "price": "425.00 "
+        }
+    ]
